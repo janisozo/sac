@@ -1,0 +1,56 @@
+/*
+Theme Name: Boostrap Album Theme by Janis
+Theme URI: 167.99.248.53
+Author: Janis
+Author URI: http://167.99.248.53
+Description: A basic theme using the Bootstrap framework.
+Version: 1.0
+Text Domain: janis-test
+*/
+
+body {
+    background-color: grey;
+    padding: 100px;
+    padding-top: 0;
+    /* background-image: url(img/mezs_vasara.jpg); */
+    background-image: radial-gradient(grey, white);
+}
+
+.navbar .navbar-nav {
+    flex-direction: row;
+}
+
+.nav-item {
+    margin: 1.25rem;
+}
+
+a {
+    color: black;
+}
+
+
+/* Index */
+.jumbotron {
+    background-color: grey;
+    padding: 0px;
+    border-radius: 0;
+    margin-bottom: 0;
+}
+
+#menu-janis-custom-menu {
+    flex-direction: row;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#menu-janis-custom-menu li {
+    display: inline-block;
+    text-align: center;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    background-color: #6c757d;
+    border-color: #6c757d;
+    border-radius: .25rem;
+    list-style: none;
+    margin: 1.25rem;
+}
