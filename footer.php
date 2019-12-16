@@ -1,10 +1,8 @@
   <footer class="text-muted">
     <div class="container">
       <p class="float-right">
-        <a href="#">Back to top</a>
+        <a href="#">Uz lapas augšu</a>
       </p>
-      
-      
     </div>
   </footer>
   <?php wp_footer(); ?>

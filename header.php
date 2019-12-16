@@ -12,10 +12,8 @@
     <?php wp_head(); ?>
   </head>
   <body <?php body_class(); ?>>
+  <div class="container text-center">
     <header>
-      <div class="container">
-        <!-- <a href="#">
-          <h1><?php bloginfo('name'); ?></h1>
-        </a> -->
-      </div>
+      <h1 class="my-3"><?php echo get_bloginfo('name', 'raw'); ?></h1>
     </header>
+  </div>
