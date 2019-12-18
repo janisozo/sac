@@ -4,7 +4,7 @@
     <!-- Navbar -->
     <nav class="navbar sticky-top">
       <?php wp_nav_menu() ?>
-      <form class="menu-item-janis-custom-menu float-right">
+      <form class="menu-item-header-menu float-right">
         <input type="text" placeholder="Meklēt">
       </form>
     </nav>

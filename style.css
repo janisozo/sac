@@ -42,38 +42,40 @@ a {
     margin-bottom: 0;
 }
 
-#menu-janis-custom-menu {
+.menu-header-menu-container {
+    display: inline-block;
+}
+
+#menu-header-menu {
     flex-direction: row;
     margin-left: auto;
     margin-right: auto;
     display: inline;
 }
 
-.menu-janis-custom-menu-container {
-    display: inline-block;
-}
 
-#menu-janis-custom-menu li {
+
+#menu-header-menu li {
     display: inline-block;
-    border: 1px solid transparent;
+    border: 2px solid;
     padding: .375rem .75rem;
-    background-color: none;
-    border-color: #6c757d;
+    /* background-color: none; */
+    /* border-color: #6c757d; */
     border-radius: .25rem;
     list-style: none;
     margin: 1.25rem;
     flex-direction: row;
 }
 
-.menu-item-janis-custom-menu {
+.menu-item-header-menu {
     display: inline-block;
-    text-align: center;
+    /* text-align: center; */
     border: 1px solid transparent;
     padding: .375rem .75rem;
     background-color: #6c757d;
     border-color: #6c757d;
     border-radius: .25rem;
-    list-style: none;
+    /* list-style: none; */
     margin: 1.25rem;
     flex-direction: row;
 }
