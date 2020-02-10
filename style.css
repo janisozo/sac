@@ -43,6 +43,12 @@ a {
     margin-bottom: 0;
 }
 
+.col {
+    text-align: center;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
 .menu-header-menu-container {
     display: inline-block;
 }

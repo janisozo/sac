@@ -11,9 +11,22 @@
     <!-- Jumbotron -->
     <div class="jumbotron main-jumbo">
       <div class="row">
-        <div class="col">1 of 3</div>
-        <div class="col">2 of 3</div>
-        <div class="col">3 of 3</div>
+        <div class="col">
+          <h4>Ekoloģiska vide</h4>
+          <p>Atrodamies skaistā vietā ekoloģiski tīrā vidē kalna galā, meža ielokā, ārpus pilsētas burzmas. Dažu minūšu gājiena attālumā ir gleznaini Daugavas krasti un vēsturisks dendroloģiskais parks</p>
+        </div>
+        <div class="col">
+          <h4>Lokācija</h4>
+          <p>Mūs var viegli atrast - nepilna puskilometra attākuma ir autošoseja Rīga - Daugavpils</p>
+        </div>
+        <div class="col">
+          <h4>Infrastruktūra</h4>
+          <p>Ārējā un iekšējā vide pielāgota cilvēkiem ar īpašām vajadzībām. Uzbrauktuves un telpas būvētas saskaņā ar invalīdu un un viņu draugu apvienības "Apeirons" izstrādātajām prasībām.</p>
+        </div>
+        <div class="col">
+          <h4>Aprūpe</h4>
+          <p>Mūsu aprūpes centram ir ilggadīgas aprūpes tradīcijas, kā arī izglītoti un pieredzējuši speciālisti.</p>
+        </div>
       </div>
     </div>
     <div class="container bg-light">
