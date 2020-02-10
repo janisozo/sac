@@ -9,8 +9,12 @@
       </form>
     </nav>
     <!-- Jumbotron -->
-    <div class="jumbotron">
-      <img src="https://lh3.googleusercontent.com/3EMslx_AxBfLET24-py1yYurS1-8TLIRbN5necXXeHplOGv48dz8P1nN-q66FjMQXQB4UQC2XiVgygO7X911DE8pzZj8jyIfaSbIAmLUxGcbc73dojMK6LRPU35dJCZFDxCKstHt6uRt61KXrFnStMAojq0S2nxRiC6_5dmmzcsbOkY7SKY2PqUNVhjhALZxc41FRBuYpLrAD3rflMaEo36WatjFxATP-b96wlWpNqw6yHieJVKkn9SOAfEjeDX2lPbc0aW0ORVjsn7vsYRT7R5pExnCHfCMLWHqC5gsw9bEW6Zxkafqqv_Cm39zTXv-uOpr18Li28BpiZnsPCL79pFZUanHh4D9P-WJt6PwTCmlB3GGFmxV9md8mOgsJfCDqE9mJGYudcPOhCmNn__3DoQYLCl_QQ6DLM7rrudjudeSgk5htFOR0zHU8vm1C_vIVJPcGEsQ4XEldKexMYKu795nxGWGCzFelaou0LIdNwRLx0uUl6mwspJWg-eXFnhsNTsfnIj4d9Q4jtwdUTQ7v4LfX14ZLqj363uAeTZdMlRxmOEt2iqGI_mVc8lWOkKrkR84BGlxqq5DXJElXnjl9v0UL8OUKHqhOrxnBlaEmz1ZKKK_s2EWHKKNabXdONMXWOvbeAmLj_N-8CI433O1v9ROgRmMElkKviGB4BTTEUqyk62AuymWSU0=w635-h220-no" class="img-fluid w-100">
+    <div class="jumbotron main-jumbo">
+      <div class="row">
+        <div class="col">1 of 3</div>
+        <div class="col">2 of 3</div>
+        <div class="col">3 of 3</div>
+      </div>
     </div>
     <div class="container bg-light">
       <div class="container">
@@ -29,7 +33,7 @@
               }
             }
           ?>
-          <!-- Section 2 -->
+          <!-- Section 2 - Par mums -->
           <div id="section-2" class="card">
             <div class="card-body">  
               <h3 class="card-title">Par mums</h3>

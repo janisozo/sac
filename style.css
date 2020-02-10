@@ -1,8 +1,8 @@
 /*
 Theme Name: Boostrap Album Theme by Janis
-Theme URI: 167.99.248.53
+Theme URI: http://68.183.71.67/wordpress
 Author: Janis
-Author URI: http://167.99.248.53
+Author URI: http://http://68.183.71.67/wordpress
 Description: A basic theme using the Bootstrap framework.
 Version: 1.0
 Text Domain: janis-test
@@ -37,6 +37,7 @@ a {
 /* Index */
 .jumbotron {
     background-color: grey;
+    background-image: url("https://lh3.googleusercontent.com/3EMslx_AxBfLET24-py1yYurS1-8TLIRbN5necXXeHplOGv48dz8P1nN-q66FjMQXQB4UQC2XiVgygO7X911DE8pzZj8jyIfaSbIAmLUxGcbc73dojMK6LRPU35dJCZFDxCKstHt6uRt61KXrFnStMAojq0S2nxRiC6_5dmmzcsbOkY7SKY2PqUNVhjhALZxc41FRBuYpLrAD3rflMaEo36WatjFxATP-b96wlWpNqw6yHieJVKkn9SOAfEjeDX2lPbc0aW0ORVjsn7vsYRT7R5pExnCHfCMLWHqC5gsw9bEW6Zxkafqqv_Cm39zTXv-uOpr18Li28BpiZnsPCL79pFZUanHh4D9P-WJt6PwTCmlB3GGFmxV9md8mOgsJfCDqE9mJGYudcPOhCmNn__3DoQYLCl_QQ6DLM7rrudjudeSgk5htFOR0zHU8vm1C_vIVJPcGEsQ4XEldKexMYKu795nxGWGCzFelaou0LIdNwRLx0uUl6mwspJWg-eXFnhsNTsfnIj4d9Q4jtwdUTQ7v4LfX14ZLqj363uAeTZdMlRxmOEt2iqGI_mVc8lWOkKrkR84BGlxqq5DXJElXnjl9v0UL8OUKHqhOrxnBlaEmz1ZKKK_s2EWHKKNabXdONMXWOvbeAmLj_N-8CI433O1v9ROgRmMElkKviGB4BTTEUqyk62AuymWSU0=w635-h220-no");
     padding: 0px;
     border-radius: 0;
     margin-bottom: 0;
